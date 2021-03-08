@@ -14,7 +14,7 @@ var rope;
 function preload() {
 //preload the images here
 backGroundImage = loadImage("GamingBackground.png");
-heroAnimation = loadAnimation("SuperHero-01.png","SuperHero-02.png");
+heroAnimation = loadAnimation("Superhero-01.png","Superhero-02.png");
 monsterAnimation = loadAnimation("Monster-01.png","Monster-02.png");
 }
 
